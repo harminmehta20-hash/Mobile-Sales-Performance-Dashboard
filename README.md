@@ -1,4 +1,4 @@
-# Mobile Sales Intelligence Dashboard
+# Mobile Sales Performnace Dashboard
 
 ## Project Overview
 This Power BI project provides a 360-degree view of mobile sales performance, tracking **769M in revenue**. It features deep dives into Month-to-Date (MTD) performance and Year-over-Year (SPLY) comparisons.
